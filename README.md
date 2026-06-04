@@ -162,21 +162,17 @@ The system provides guidance rather than financial advice.
 
 * Pandas
 * NumPy
+* yfinance
+* matplot
 * Apache Airflow
 
 ### Data Storage
 
 * PostgreSQL
+* Supabase
 * MongoDB
 * Redis
 
-### Infrastructure
-
-* Docker
-* Kubernetes
-* AWS
-
----
 
 ## Data Architecture
 
